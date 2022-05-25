@@ -1,0 +1,3 @@
+Text2. N (0<N<27) butun son va fayl nomi berilgan. Berilgan nomdagi matnli fay! hosil qilinsin va unga: 
+birinchi satri “a” kichik lotin harfi, ikkinchisiga’ab", uchunchisiga “abc’ va h.k satrlami saqlovchi N ta satr 
+yozilsin
